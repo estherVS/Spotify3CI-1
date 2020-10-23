@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <ImageButton
+        android:onClick="player"
         android:id="@+id/imageButton"
         android:layout_width="0dp"
         android:layout_height="67dp"
